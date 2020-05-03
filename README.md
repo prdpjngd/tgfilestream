@@ -15,7 +15,7 @@ STEP 1: Press 👉🏻 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](
 STEP 2: get You App credentials from https://my.telegram.org/auth. \
 STEP 3: put variable value in the heroku env. variables.\
 STEP 4: get environment Variable ( BOT Token ) from BotFather\
-STEP 5: Put Heroku_App_URL Variable to your Heroku App Link..
+STEP 5: Put Heroku_App_URL Variable to your Heroku App Link..\
 STEP 5: Boom!.... your done!\
 
 
